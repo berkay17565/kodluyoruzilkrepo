@@ -22,3 +22,5 @@ code .
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+## Picture of Preject
+![resim](https://www.hizliresim.com/1s2zfr0)
