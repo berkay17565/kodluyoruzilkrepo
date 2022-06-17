@@ -22,5 +22,5 @@ code .
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-## Picture of Preject
+## Picture of Project
 [![r4H8MM.png](https://i.im.ge/2022/06/17/r4H8MM.png)](https://im.ge/i/r4H8MM)
